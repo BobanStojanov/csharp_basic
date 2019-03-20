@@ -1,0 +1,6 @@
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\bin\Debug\Songs.dll
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\bin\Debug\Songs.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\obj\Debug\Songs.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\obj\Debug\Songs.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\obj\Debug\Songs.dll
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 8 SEDC\Exercise8SEDC\Songs\obj\Debug\Songs.pdb

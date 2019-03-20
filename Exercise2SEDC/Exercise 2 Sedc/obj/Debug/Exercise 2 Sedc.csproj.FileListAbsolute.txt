@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\bin\Debug\Exercise 2 Sedc.exe.config
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\bin\Debug\Exercise 2 Sedc.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\bin\Debug\Exercise 2 Sedc.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\obj\Debug\Exercise 2 Sedc.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\obj\Debug\Exercise 2 Sedc.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\obj\Debug\Exercise 2 Sedc.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 2 Sedc\Exercise 2 Sedc\obj\Debug\Exercise 2 Sedc.pdb

@@ -1,0 +1,6 @@
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\bin\Debug\ClassLibrary1.dll
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\bin\Debug\ClassLibrary1.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\obj\Debug\ClassLibrary1.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\obj\Debug\ClassLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\obj\Debug\ClassLibrary1.dll
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise9SEDC\Exercise9SEDC\ClassLibrary1\obj\Debug\ClassLibrary1.pdb

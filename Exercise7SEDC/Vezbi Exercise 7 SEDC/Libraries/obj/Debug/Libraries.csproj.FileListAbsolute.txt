@@ -1,0 +1,7 @@
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\bin\Debug\Libraries.exe.config
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\bin\Debug\Libraries.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\bin\Debug\Libraries.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\obj\Debug\Libraries.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\obj\Debug\Libraries.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\obj\Debug\Libraries.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Libraries\obj\Debug\Libraries.pdb

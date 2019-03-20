@@ -1,0 +1,10 @@
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\bin\Debug\Vezbi Exercise 7 SEDC.exe.config
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\bin\Debug\Vezbi Exercise 7 SEDC.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\bin\Debug\Vezbi Exercise 7 SEDC.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\obj\Debug\Vezbi Exercise 7 SEDC.csprojAssemblyReference.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\obj\Debug\Vezbi Exercise 7 SEDC.csproj.CoreCompileInputs.cache
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\obj\Debug\Vezbi Exercise 7 SEDC.csproj.CopyComplete
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\obj\Debug\Vezbi Exercise 7 SEDC.exe
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\obj\Debug\Vezbi Exercise 7 SEDC.pdb
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\bin\Debug\ClassLibrary1.dll
+C:\Users\code\Desktop\Bobi\Backend\Basic C#\Exercise 7 SEDC\Vezbi Exercise 7 SEDC\Vezbi Exercise 7 SEDC\bin\Debug\ClassLibrary1.pdb
